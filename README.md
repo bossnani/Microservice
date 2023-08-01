@@ -1,4 +1,4 @@
-Diablo 4 Class Comparison Microservice
+## Diablo 4 Class Comparison Microservice
 Contribution by: Robert Afnani
 
 Description: This microservice allows you to compare different classes in Diablo 4 and determine which class is best for solo play and which one is best for group play.
